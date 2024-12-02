@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "firstName": "Brad",
+      "lastName": "Trav",
+      "dob": "1998-15-15",
+      "email": "btrav@gmail.com",
+      "phone": "123-456-7890",
+      "address": {
+        "street": "123 Main St",
+        "city": "Cambridge",
+        "state": "Ohio",
+        "zipCode": "45682"
+      }
+    },
+
+    {
+        "id": 1,
+        "firstName": "Xander",
+        "lastName": "McLoed",
+        "dob": "2004-05-25",
+        "email": "xmlo@gmail.com",
+        "phone": "123-456-7890",
+        "address": {
+          "street": "123 Mason St",
+          "city": "Cleveland",
+          "state": "Ohio",
+          "zipCode": "65978"
+        }
+      }
+  ]
