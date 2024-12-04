@@ -1,31 +1,423 @@
 [
+   
+  {
+    "id": 1,
+    "firstName": "Brad",
+    "lastName": "Trav",
+    "dob": "1998-05-15",
+    "email": "btrav@gmail.com",
+    "phone": "123-456-7890",
+    "address": {
+      "street": "123 Main St",
+      "city": "Cambridge",
+      "state": "Texas",
+      "zipCode": "45682"
+    }
+  },
+  {
+    "id": 2,
+    "firstName": "Xander",
+    "lastName": "McLoed",
+    "dob": "2004-05-25",
+    "email": "xmlo@gmail.com",
+    "phone": "123-456-7891",
+    "address": {
+      "street": "456 Mason St",
+      "city": "Cleveland",
+      "state": "Florida",
+      "zipCode": "65978"
+    }
+  },
+  {
+    "id": 3,
+    "firstName": "Sara",
+    "lastName": "Peters",
+    "dob": "1987-09-12",
+    "email": "sara.peters@gmail.com",
+    "phone": "987-654-3210",
+    "address": {
+      "street": "789 Hilltop Dr",
+      "city": "Austin",
+      "state": "California",
+      "zipCode": "98765"
+    }
+  },
+  {
+    "id": 4,
+    "firstName": "Maya",
+    "lastName": "Jones",
+    "dob": "1995-02-10",
+    "email": "maya.jones@gmail.com",
+    "phone": "222-333-4444",
+    "address": {
+      "street": "101 Oak Ln",
+      "city": "Chicago",
+      "state": "Illinois",
+      "zipCode": "60007"
+    }
+  },
+  {
+    "id": 5,
+    "firstName": "Liam",
+    "lastName": "Smith",
+    "dob": "1993-11-21",
+    "email": "liam.smith@gmail.com",
+    "phone": "333-444-5555",
+    "address": {
+      "street": "202 Pine St",
+      "city": "Denver",
+      "state": "Colorado",
+      "zipCode": "80202"
+    }
+  },
+  {
+    "id": 6,
+    "firstName": "Olivia",
+    "lastName": "Brown",
+    "dob": "2000-06-05",
+    "email": "olivia.brown@gmail.com",
+    "phone": "444-555-6666",
+    "address": {
+      "street": "303 Cedar Ave",
+      "city": "Orlando",
+      "state": "Florida",
+      "zipCode": "32801"
+    }
+  },
+  {
+    "id": 7,
+    "firstName": "Emma",
+    "lastName": "Taylor",
+    "dob": "1985-07-30",
+    "email": "emma.taylor@gmail.com",
+    "phone": "555-666-7777",
+    "address": {
+      "street": "404 Birch Blvd",
+      "city": "Phoenix",
+      "state": "Arizona",
+      "zipCode": "85001"
+    }
+  },
+  {
+    "id": 8,
+    "firstName": "Noah",
+    "lastName": "Wilson",
+    "dob": "1999-08-12",
+    "email": "noah.wilson@gmail.com",
+    "phone": "666-777-8888",
+    "address": {
+      "street": "505 Walnut St",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "zipCode": "30303"
+    }
+  },
+  {
+    "id": 9,
+    "firstName": "Sophia",
+    "lastName": "Harris",
+    "dob": "2002-12-15",
+    "email": "sophia.harris@gmail.com",
+    "phone": "777-888-9999",
+    "address": {
+      "street": "606 Maple Rd",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "zipCode": "02108"
+    }
+  },
+  {
+    "id": 10,
+    "firstName": "Aiden",
+    "lastName": "Clark",
+    "dob": "1994-04-18",
+    "email": "aiden.clark@gmail.com",
+    "phone": "888-999-1010",
+    "address": {
+      "street": "707 Elm St",
+      "city": "Nashville",
+      "state": "Tennessee",
+      "zipCode": "37201"
+    }
+  },
+  {
+    "id": 11,
+    "firstName": "Isabella",
+    "lastName": "Moore",
+    "dob": "1990-01-25",
+    "email": "isabella.moore@gmail.com",
+    "phone": "999-101-2020",
+    "address": {
+      "street": "808 Chestnut St",
+      "city": "Seattle",
+      "state": "Washington",
+      "zipCode": "98101"
+    }
+  },
+  {
+    "id": 12,
+    "firstName": "Ethan",
+    "lastName": "Walker",
+    "dob": "1996-03-14",
+    "email": "ethan.walker@gmail.com",
+    "phone": "101-202-3030",
+    "address": {
+      "street": "909 Spruce St",
+      "city": "San Francisco",
+      "state": "California",
+      "zipCode": "94102"
+    }
+  },
+  {
+    "id": 13,
+    "firstName": "Charlotte",
+    "lastName": "Hall",
+    "dob": "2001-07-11",
+    "email": "charlotte.hall@gmail.com",
+    "phone": "202-303-4040",
+    "address": {
+      "street": "1010 Willow Ln",
+      "city": "Dallas",
+      "state": "Texas",
+      "zipCode": "75201"
+    }
+  },
+  {
+    "id": 14,
+    "firstName": "James",
+    "lastName": "Allen",
+    "dob": "1988-09-20",
+    "email": "james.allen@gmail.com",
+    "phone": "303-404-5050",
+    "address": {
+      "street": "1111 Cypress Dr",
+      "city": "Detroit",
+      "state": "Michigan",
+      "zipCode": "48226"
+    }
+  },
+  {
+    "id": 15,
+    "firstName": "Amelia",
+    "lastName": "Young",
+    "dob": "1989-02-27",
+    "email": "amelia.young@gmail.com",
+    "phone": "404-505-6060",
+    "address": {
+      "street": "1212 Poplar Ave",
+      "city": "Portland",
+      "state": "Oregon",
+      "zipCode": "97204"
+    }
+  },
+  {
+    "id": 16,
+    "firstName": "Benjamin",
+    "lastName": "King",
+    "dob": "1992-06-06",
+    "email": "benjamin.king@gmail.com",
+    "phone": "505-606-7070",
+    "address": {
+      "street": "1313 Redwood Rd",
+      "city": "Las Vegas",
+      "state": "Nevada",
+      "zipCode": "89101"
+    }
+  },
+  {
+    "id": 17,
+    "firstName": "Mia",
+    "lastName": "Wright",
+    "dob": "1997-10-19",
+    "email": "mia.wright@gmail.com",
+    "phone": "606-707-8080",
+    "address": {
+      "street": "1414 Dogwood Ln",
+      "city": "San Diego",
+      "state": "California",
+      "zipCode": "92101"
+    }
+  },
+  {
+    "id": 18,
+    "firstName": "Elijah",
+    "lastName": "Scott",
+    "dob": "1991-12-23",
+    "email": "elijah.scott@gmail.com",
+    "phone": "707-808-9090",
+    "address": {
+      "street": "1515 Cherry St",
+      "city": "Minneapolis",
+      "state": "Minnesota",
+      "zipCode": "55401"
+    }
+  },
+  {
+    "id": 19,
+    "firstName": "Harper",
+    "lastName": "Adams",
+    "dob": "1986-08-02",
+    "email": "harper.adams@gmail.com",
+    "phone": "808-909-1010",
+    "address": {
+      "street": "1616 Aspen Ave",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zipCode": "19102"
+    }
+  },
     {
-      "id": 1,
-      "firstName": "Brad",
-      "lastName": "Trav",
-      "dob": "1998-15-15",
-      "email": "btrav@gmail.com",
-      "phone": "123-456-7890",
-      "address": {
-        "street": "123 Main St",
-        "city": "Cambridge",
-        "state": "Ohio",
-        "zipCode": "45682"
-      }
-    },
-
-    {
-        "id": 1,
-        "firstName": "Xander",
-        "lastName": "McLoed",
-        "dob": "2004-05-25",
-        "email": "xmlo@gmail.com",
-        "phone": "123-456-7890",
+        "id": 21,
+        "firstName": "William",
+        "lastName": "Harris",
+        "dob": "1992-02-10",
+        "email": "wharris@gmail.com",
+        "phone": "901-567-2348",
         "address": {
-          "street": "123 Mason St",
-          "city": "Cleveland",
-          "state": "Ohio",
-          "zipCode": "65978"
+            "street": "357 River Rd",
+            "city": "Newark",
+            "state": "Ohio",
+            "zipCode": "43055"
         }
-      }
-  ]
+    },
+    {
+        "id": 22,
+        "firstName": "Evelyn",
+        "lastName": "Turner",
+        "dob": "1995-03-29",
+        "email": "eturner@gmail.com",
+        "phone": "012-678-3459",
+        "address": {
+            "street": "468 Valley Blvd",
+            "city": "Lancaster",
+            "state": "Ohio",
+            "zipCode": "43130"
+        }
+    },
+    {
+        "id": 23,
+        "firstName": "Alexander",
+        "lastName": "Roberts",
+        "dob": "1999-06-17",
+        "email": "aroberts@gmail.com",
+        "phone": "123-789-4560",
+        "address": {
+            "street": "579 Summit Ave",
+            "city": "Fairfield",
+            "state": "Ohio",
+            "zipCode": "45014"
+        }
+    },
+    {
+        "id": 24,
+        "firstName": "Sofia",
+        "lastName": "Walker",
+        "dob": "2002-07-05",
+        "email": "swalker@gmail.com",
+        "phone": "234-890-5671",
+        "address": {
+            "street": "135 Park Ln",
+            "city": "Hamilton",
+            "state": "Ohio",
+            "zipCode": "45011"
+        }
+    },
+    {
+        "id": 25,
+        "firstName": "Lucas",
+        "lastName": "Young",
+        "dob": "1990-09-13",
+        "email": "lyoung@gmail.com",
+        "phone": "345-901-6782",
+        "address": {
+            "street": "246 Oak St",
+            "city": "Middletown",
+            "state": "Ohio",
+            "zipCode": "45044"
+        }
+    },
+    {
+        "id": 26,
+        "firstName": "Avery",
+        "lastName": "King",
+        "dob": "1994-10-27",
+        "email": "aking@gmail.com",
+        "phone": "456-012-7893",
+        "address": {
+            "street": "357 Birch Ct",
+            "city": "Grove City",
+            "state": "Ohio",
+            "zipCode": "43123"
+        }
+    },
+    {
+        "id": 27,
+        "firstName": "Sebastian",
+        "lastName": "Wright",
+        "dob": "1988-12-12",
+        "email": "swright@gmail.com",
+        "phone": "567-123-8904",
+        "address": {
+            "street": "468 Sunset Blvd",
+            "city": "Wooster",
+            "state": "Ohio",
+            "zipCode": "44691"
+        }
+    },
+    {
+        "id": 28,
+        "firstName": "Ella",
+        "lastName": "Lopez",
+        "dob": "1996-11-20",
+        "email": "elopez@gmail.com",
+        "phone": "678-234-9015",
+        "address": {
+            "street": "579 Highland Dr",
+            "city": "Perrysburg",
+            "state": "Ohio",
+            "zipCode": "43551"
+        }
+    },
+    {
+        "id": 29,
+        "firstName": "Daniel",
+        "lastName": "Baker",
+        "dob": "1998-01-08",
+        "email": "dbaker@gmail.com",
+        "phone": "789-345-0126",
+        "address": {
+            "street": "135 Lakeview Ave",
+            "city": "Hilliard",
+            "state": "Ohio",
+            "zipCode": "43026"
+        }
+    },
+    {
+        "id": 30,
+        "firstName": "Aria",
+        "lastName": "Campbell",
+        "dob": "1992-04-16",
+        "email": "acampbell@gmail.com",
+        "phone": "890-456-1237",
+        "address": {
+            "street": "246 Prairie Rd",
+            "city": "Westerville",
+            "state": "Ohio",
+            "zipCode": "43081"
+        }
+    },
+    {
+        "id": 31,
+        "firstName": "Matthew",
+        "lastName": "Garcia",
+        "dob": "1993-10-23",
+        "email": "mgarcia@gmail.com",
+        "phone": "901-567-2348",
+        "address": {
+            "street": "357 Skyline Dr",
+            "city": "Worthington",
+            "state": "Ohio",
+            "zipCode": "43085"
+        }
+    }
+]
